@@ -1,0 +1,1269 @@
+<!DOCTYPE html>
+<!-- saved from url=(0054)https://smktamansiswa2jakarta.sch.id/galeri/juara-lks/ -->
+<html lang="en-US" class=" no-touchevents"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		
+        <link rel="preload" as="font" href="https://smktamansiswa2jakarta.sch.id/wp-content/themes/prestasi/fonts/Montserrat/Montserrat-Bold.woff2" crossorigin="">
+		<link rel="preload" as="font" href="https://smktamansiswa2jakarta.sch.id/wp-content/themes/prestasi/fonts/Poppins/Poppins-Regular.woff2" crossorigin="">
+		<link rel="preload" as="font" href="https://smktamansiswa2jakarta.sch.id/wp-content/themes/prestasi/fonts/Roboto_Condensed/RobotoCondensed-Regular.woff2" crossorigin="">		<title>  Juara LKS</title>
+		
+			
+		<meta name="description" content="">
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<meta property="og:locale" content="id_ID">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="  Juara LKS">
+        <meta property="og:description" content="">
+				<meta property="og:url" content="https://smktamansiswa2jakarta.sch.id/galeri/juara-lks?page&amp;galeri=juara-lks&amp;post_type=galeri&amp;name=juara-lks">
+        <meta property="og:site_name" content="SMK TAMANSISWA 2 JAKARTA">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="  Juara LKS">
+        <meta name="twitter:description" content="">
+		<meta property="og:image" content="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09.jpeg"><meta property="og:image:secure_url" content="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09.jpeg"><meta name="twitter:image" content="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09.jpeg"><meta name="robots" content="max-image-preview:large">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/smktamansiswa2jakarta.sch.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="./model3_files/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-components-css" href="./model3_files/style(1).min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-editor-css" href="./model3_files/style(2).min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-reusable-blocks-css" href="./model3_files/style(3).min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-editor-css" href="./model3_files/style(4).min.css" type="text/css" media="all">
+<link rel="stylesheet" id="captain-form-block-style-css-css" href="./model3_files/blocks.style.build.css" type="text/css" media="all">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="swiper-css" href="./model3_files/swiper.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="qode-essential-addons-style-css" href="./model3_files/main.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="qode-essential-addons-theme-style-css" href="./model3_files/grid.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="press-style-css" href="./model3_files/style.css" type="text/css" media="all">
+<style id="press-style-inline-css" type="text/css">
+	
+	body {
+		background-color: #ffffff;
+	}
+	.prestasi a {
+		color : #01aafe;
+	}
+	.prestasi {
+		background: #ffffff;
+		color: #888888;
+	}
+	.press_top {
+		background: #5322ac;
+		color: #ffffff;
+	}
+	.press_top a {
+		color: #ffbc08;
+	}
+	.press_search,
+	.ps_input input,
+    .ps_select select {
+		background: #ffffff;
+		color : #555555;
+	}
+	.opensearch .press_search {
+		background: #ffffff;
+	}
+	.opensearch .ps_input input, 
+	.opensearch .ps_select select {
+		color : #555555;
+	}
+	.ps_select select {
+		border-left: 1px solid #5322ac;
+	}
+    .ps_button button,
+	.botclose {
+        background: #01aafe;
+		color: #ffffff;
+    }
+	.press_head:after,
+	.nav .dd.desktop li ul {
+		background : #ffbc08;
+	}
+	.nav .dd.desktop li a,
+	.nav .dd.desktop li.menu-item-has-children:after {
+		color:  #ffffff;
+	}
+	
+	.botsearch {
+		background: #ffbc08;
+		color: #333333;
+		border: 2px solid #333333;
+	}
+	.botmenu {
+		background: #ffbc08;
+		color: #333333;
+		border: 2px solid #333333;
+	}
+	.nav .dd.accord li a,
+	.nav .dd.accord li.has-sub.active:after,
+    .nav .dd.accord li.has-sub:after,
+	.nav .dd.accord li.menu-item-has-children:after {
+		color: #333333;
+	}
+	#fourblock {
+		background: #ffffff;
+	}
+	.press_infosekolah {
+		background: #ffffff;
+	}
+	.press_infosekolah:after {
+		background: #2bb24c;
+	}
+	.info_box h3 span.re_info {
+		background: #ffffff;
+		color: #ff204f;
+		border: 2px solid #ff204f;
+	}
+	.info_box h1 {
+		color: #2ab14a;
+	}
+	.info_box h1:after,
+	.school_box:after {
+		background: #2ab14a;
+	}
+	.info_tab {
+		color: #555555;
+	}
+	.con_box .ks,
+	.con_box .phone a {
+		color: #5322ac;
+	}
+	.con_box .phone {
+		color: #2bb24c;
+	}
+	.press_social .fa-facebook {
+		background: #2ab24a;
+		color: #ffffff;
+	}
+	.press_social .fa-twitter {
+		background: #5322ac;
+		color: #ffffff;
+	}
+	.press_social .fa-instagram {
+		background: #ffbc08;
+		color: #ffffff;
+	}
+	.press_social .fa-youtube {
+		background: #01aafe;
+		color: #ffffff;
+	}
+	.press_social .fa-envelope-o {
+		background: #ff204f;
+		color: #ffffff;
+	}
+	.press_social .fa-whatsapp {
+		background: #ff9900;
+		color: #ffffff;
+	}
+	.home_agenda,
+	.home_agenda:after {
+		background-color: #2ab24a;
+		color: #ffffff;
+	}
+	.foot_agenda a:after {
+		background: #ffffff;
+	}
+	.table_agenda .span,
+	.foot_agenda a {
+		color: #ffffff;
+	}
+	.latest_agenda h4 a {
+		color: #ffffff;
+	}
+	.near_agenda h3 span.re_agenda {
+		background: #2ab24a;
+		color: #aefb4e;
+		border: #aefb4e solid 2px;
+	}
+	.post_meta {
+		background: #febb08;
+		color: #333333;
+	}
+	.post_meta a {
+		color: #333333;
+	}
+	.post_meta span {
+		color: #333333;
+		border: #333333 solid 2px;
+	}
+	.announ_home {
+		background: #01aaff;
+		color: #333333;
+	}
+	.announ_home a {
+		color: #ffffff;
+	}
+	.announ_post h3 span.re_announ {
+		background: #01aaff;
+		color: #ffffff;
+		border: #ffffff solid 2px;
+	}
+	.press_boxquote {
+		background: #eeeeee;
+		color: #333333;
+	}
+	.press_boxquote h4,
+	.quotes_acc {
+		color: #2bb24c;
+	}
+	#personelblock  {
+		background: #ffcc00;
+	}
+	.head_datas {
+		background: #ffffff;
+		color: #333333;
+	}
+	.editorial_more a {
+		background: #5322ac;
+		color: #ffffff;
+		border: #5322ac solid 2px;
+	}
+	.person .item {
+		background: #2ab24a;
+		color: #ffffff;
+	}
+	.person .item a {
+		color: #ffffff;
+	}
+	#anotherblock {
+		background: #ffffff;
+	}
+	.blog_box h3 span.re_blog {
+		background: #ff9900;
+		color: #ffffff;
+		border: #ff9900 solid 2px;
+	}
+	.blog_in {
+		background: #ffffff;
+	}
+	.meta_in {
+		color: #2ab24a;
+	}
+	.blog_in h4 a  {
+		color: #ee1341;
+	}
+	.meta_in:after {
+		background: #ee1341;
+	}
+	.home_fasilitas {
+		 color: #099de7;
+    }
+	.home_extra {
+		 color: #2ab24a;
+    }
+	.box_extra {
+		background: #2ab24a;
+		color: #ffffff;
+	}
+	.extra_text h5 {
+		 color: #ffffff;
+    }
+	.extra_text span.re_lihat {
+		color: #ffffff;
+		border: 2px solid #ffffff;
+	}
+	.home_gall {
+		 color: #1014af;
+    }
+	.home_video {
+		 color: #f0630e;
+    }
+	.press_page:after {
+		 background: #ffffff;
+    }
+	.press_page h1 {
+		 color: #009900;
+    }
+	.post_in h2 a {
+		 color: #dddddd;
+    }
+	.post_inpublish {
+		 background: #5322ac;
+		 color: #ffffff;
+    }
+	.post_inpublish.expired {
+		 background: #fe1f4e;
+		 color: #ffffff;
+    }
+	.post-type-archive-gtk .post_in {
+		 background: #5322ac;
+	}
+	.prestasi a.guru_fullname {
+		 color: #ffffff;
+    }
+	.prestasi a.jab {
+		 background: #ffffff;
+		 color: #5322ac;
+	}
+	.press_tab tr,
+	.some_cat,
+	.some_result {
+		background: #ffffff;
+	}
+	.press_tab tr.top_tab,
+	.some_input,
+	.some_cat span {
+		 background: #2ab24a;
+		 color: #ffffff;
+	}
+	.press_tab {
+		color: #333333;
+	}
+	.press_tab a {
+		color: #2ab24a;
+	}
+	.post-type-archive-materi #listing {
+		background: #f7f7f7;
+		color: #333333;
+	}
+	.ajax-auth h3 {
+		color: #333333;
+	}
+	.post-type-archive-materi #listing a {
+		color: #33bbff;
+	}
+	.kelas_head .to_materi {
+		background: #333333;
+		color: #f7f7f7;
+	}
+	.post-type-archive-materi #listing a.login_button,
+	.single-materi #listing a.login_button {
+		background: #333333;
+		color: #f7f7f7;
+	}
+	.post-type-archive-materi #listing a.logout_button,
+	.single-materi #listing a.logout_button,
+	.oc_class span:after,
+	.oc_class span:before {
+		background: #33bbff;
+		color: #f7f7f7;
+	}
+	.materi_box,
+	.tugas_term,
+	.log_open,
+	.ajax-auth input#username,
+    .ajax-auth input#password,
+    .ajax-auth input#signonname,
+    .ajax-auth input#email,
+    .ajax-auth input#signonpassword,
+    .ajax-auth input#password2 {
+		background: #ffffff;
+		border: 1px solid #eeeeee;
+		color: #333333;
+	}
+	
+	.tugas_term:after {
+		background: #ffffff;
+	}
+	.tugas_term:before {
+		background: #eeeeee;
+	}
+	.tugas_term span {
+		background: #333333;
+		color: #ffffff;
+	}
+	.soal_kumpulan {
+		border-top: 1px solid #eeeeee;
+	}
+	.inform {
+		background: #ffffff;
+	}
+	.stat_col,
+	.post-type-archive-materi #listing .tugas_term a,
+	.post-type-archive-materi #listing .det_materi h4 a,
+	.post-type-archive-materi #listing .forg a {
+    	color: #ff1f4e;
+    }
+	.ajax-auth input.submit_button {
+		background: #ff1f4e;
+		color: #ffffff;
+	}
+	.soal_box {
+		border-bottom: 1px solid #eeeeee;
+	}
+	.post-type-archive-materi #listing a.det_mapel {
+		background: #ff1f4e;
+		color: #ffffff;
+	}
+	.post-type-archive-materi #listing a.det_kelas {
+		background: #333333;
+		color: #ffffff;
+	}
+	.per_materi {
+		border: 1px solid #eeeeee;
+		color: #333333;
+	}
+	.press_cat a {
+		background: #01aafe;
+		color: #ffffff;
+	}
+	.press_tags a {
+		border: 2px solid #01aafe;
+		color: #01aafe;
+	}
+	.loop_meta span {
+		background: #888888;
+		color: #ffffff;
+	}
+	.event_active,
+	.meta_active {
+		color: #ff1f4e;
+	}
+	.event_expired,
+	.meta_expired {
+		color: #333333;
+	}
+	.press_eventdate {
+		background: #ff1f4e;
+		color: #ffffff;
+	}
+	.press_eventmonth {
+		background: #888888;
+		color: #ffffff;
+	}
+	.secondary_content {
+		border-left: 1px solid #eeeeee;
+	}
+	.people .secondary_content {
+		border-right: 1px solid #eeeeee;
+	}
+	.press_cat {
+		border-top: 1px solid #eeeeee;
+		border-bottom: 1px solid #eeeeee;
+	}
+	#comment,
+	#author,
+	#email,
+	#url {
+		background: #ff1f4e;
+		border: 1px solid #ffffff;
+		color: #333333;
+	}
+	#submit {
+		background: #00aafc;
+		color: #ffffff;
+	}
+	#footerbar {
+		background: #ffffff;
+		color: #333333;
+	}
+	.wid_icon .fa {
+		border: 1px solid #333333;
+	}
+	.widget a {
+		color: #23b249;
+	}
+	.widget h3 span {
+		border-bottom: 1px solid #23b249;
+	}
+	.a_date {
+		background: #23b249;
+		color: #ffffff;
+	}
+	.a_month {
+		background: #333333;
+		color: #ffffff;
+	}
+	.widget .tagcloud a {
+		background: #fe204f;
+		color: #ffffff;
+	}
+	.footer {
+		background: #2ab14b;
+		color: #ffffff;
+	}
+	.footer a {
+		color: #333333;
+	}
+	.nhome {
+		background: #fe1e4c;
+		color: #ffffff;
+	}
+	.nphone {
+		background: #1bda4a;
+		color: #ffffff;
+	}
+	.nemail {
+		background: #ffbc08;
+		color: #ffffff;
+	}
+	.nwa {
+		background: #5322ac;
+		color: #ffffff;
+	}
+	.nreturn {
+		background: #01aafe;
+		color: #ffffff;
+	}
+	.nreturn a {
+		color: #ffffff;
+	}
+	
+	
+	@media screen and (max-width: 800px) {
+    	.press_nav {
+	    	background : #ffbc08;
+    	}
+		.closemenu {
+	    	background:  #333333;
+	    	color:  #ffbc08;
+	    }
+	}
+	@media screen and (max-width: 480px) {
+	    .opentoggle:before {
+			background: #2bb24c;
+			color: #ffffff;
+        }
+		.infoshow .opentoggle:before {
+			background: #555555;
+			color: #ffffff;
+		}
+	}
+	
+
+	.prestasi a {
+	    color: #252121;
+	}
+	.press_cat a {
+		background: #252121;
+	}
+	.press_tags a {
+		border: 2px solid #252121;
+		color: #252121;
+	}
+	
+
+		.press_top {
+			background: #000000;
+		}
+	
+
+		.press_search,
+		.ps_input input,
+		.opensearch .ps_input input, 
+		.opensearch .ps_select select {
+			color: #252121;
+		}
+	
+
+		.ps_button button,
+		.botclose {
+            background: #fbb307;
+        }
+	
+
+		.press_head:after,
+		.nav .dd.desktop li ul {
+	    	background : #252121;
+    	}
+		.closemenu {
+	    	color : #252121;
+    	}
+	
+
+		.botsearch {
+		background: #fbb307;
+    	}
+	
+
+		.botsearch {
+		color: #252121;
+    	}
+	
+
+		.botsearch {
+		border: 2px solid #252121;
+    	}
+	
+
+		.botmenu {
+		background: #fbb307;
+    	}
+	
+
+		.botmenu {
+		color: #252121;
+    	}
+	
+
+		.botmenu {
+		border: 2px solid #252121;
+    	}
+	
+
+		@media screen and (max-width: 800px) {
+    	.press_nav {
+	    	background : #fbb307;
+    	}
+		.closemenu {
+	    	color: #fbb307;
+	    }
+		}
+	
+
+    	.nav .dd.accord li a,
+     	.nav .dd.accord li.has-sub.active:after,
+        .nav .dd.accord li.has-sub:after,
+    	.nav .dd.accord li.menu-item-has-children:after {
+	    	color : #252121;
+    	}
+		.closemenu {
+	    	background: #252121;
+	    }
+	
+
+		.press_infosekolah:after {
+			background: #006a47;
+		}
+		.con_box .phone {
+			color: #006a47;
+		}
+	
+
+		.info_box h3 span.re_info {
+			color: #ff0707;
+		}
+	
+
+		.info_box h3 span.re_info {
+			border: 2px solid #ff2121;
+		}
+	
+
+		.info_box h1 {
+			color: #252121;
+		}
+		.info_box h1:after,
+		.school_box:after {
+			background: #252121;
+		}
+	
+
+		.con_box .ks,
+		.con_box .phone a {
+			color: #006a47;
+		}
+	
+
+		.press_social .fa-facebook {
+			background: #375ce5;
+		}
+	
+
+		.press_social .fa-instagram {
+			background: #7b00b5;
+		}
+	
+
+		.press_social .fa-youtube {
+			background: #f70000;
+		}
+	
+
+		.press_social .fa-whatsapp {
+			background: #08af00;
+		}
+	
+
+	    .home_agenda,
+		.home_agenda:after {
+			background-color: #006a47;
+		}
+	
+
+	.near_agenda h3 span.re_agenda {
+		background: #007c68;
+	}
+	
+
+	.near_agenda h3 span.re_agenda {
+		color: #ffffff;
+	}
+	
+
+	.near_agenda h3 span.re_agenda {
+		border: #ffffff solid 2px;
+	}
+	
+
+		.post_meta {
+			background: #fbb307;
+		}
+	
+
+	.post_meta,
+	.post_meta a {
+		color: #ffffff;
+	}
+	.post_meta span {
+		color: #ffffff;
+		border: #ffffff solid 2px;
+	}
+	
+
+		.announ_home {
+			background: #fbb307;
+		}
+	
+
+		.announ_home {
+			color: #252121;
+		}
+	
+
+		.announ_post h3 span.re_announ {
+			background: #fbb307;
+		}
+	
+
+	.press_boxquote {
+		color: #252121;
+	}
+	
+
+	.press_boxquote h4,
+	.quotes_acc {
+		color: #006a47;
+	}
+	
+
+		#personelblock {
+			background: #006a47;
+		}
+	
+
+		.editorial_more a {
+			background: #ffffff;
+		}
+	
+
+		.editorial_more a {
+			color: #252121;
+		}
+	
+
+		.editorial_more a {
+			border: 2px solid #252121;
+		}
+	
+
+		.person .item {
+			background: #007c68;
+		}
+	
+
+    .blog_box h3 span.re_blog {
+		background: #fbb307;
+	}
+	
+
+	.blog_box h3 span.re_blog {
+		border: #fbb307 solid 2px;
+	}
+	
+
+		.meta_in {
+			color: #006a47;
+		}
+	
+
+		.blog_in h4 a {
+			color: #252121;
+		}
+		.meta_in:after {
+			background: #252121;
+		}
+	
+
+		.home_fasilitas {
+		    color: #252121;
+        }
+	
+
+	.home_extra {
+		 color: #006a47;
+    }
+	
+
+	.box_extra {
+		 background: #006a47;
+    }
+	
+
+	.home_gall {
+		 color: #006a47;
+    }
+	
+
+	.home_video {
+		 color: #006a47;
+    }
+	
+
+	.press_page h1 {
+		 color: #252121;
+    }
+	
+
+	.post_inpublish {
+		 background: #252121;
+    }
+	
+
+	.press_tab tr.top_tab,
+	.some_input,
+	.some_cat span {
+		background: #006a47;
+	}
+	
+
+	.press_tab a {
+		color: #006a47;
+	}
+	
+
+	.post-type-archive-materi #listing a {
+		color: #006a47;
+	}
+	.post-type-archive-materi #listing a.logout_button,
+	.single-materi #listing a.logout_button,
+	.oc_class span:before {
+		background: #006a47;
+	}
+	
+
+	.widget a {
+		color: #006a47;
+	}
+	.widget h3 span {
+		border-bottom: 1px solid #006a47;
+	}
+	
+
+	.widget .tagcloud a {
+		background: #fe204f;
+	}
+	
+
+	.footer {
+		background: #006a47;
+	}
+	
+
+	.nhome {
+		background: #252121;
+	}
+	
+
+	.nphone {
+		background: #252121;
+	}
+	
+
+	.nemail {
+		background: #252121;
+	}
+	
+
+	.nwa {
+		background: #252121;
+	}
+	
+
+	.nscroll {
+		background: #fbb307;
+	}
+	
+</style>
+<link rel="stylesheet" id="press-owl-css" href="./model3_files/owl.carousel.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="press-ani-css" href="./model3_files/owl.animate.css" type="text/css" media="all">
+<link rel="stylesheet" id="press-theme-css" href="./model3_files/owl.theme.default.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="press-awe-css" href="./model3_files/font-awesome.css" type="text/css" media="all">
+<link rel="stylesheet" id="learnpress-widgets-css" href="./model3_files/widgets.css" type="text/css" media="all">
+<script type="text/javascript" src="./model3_files/jquery.min.js.download" id="jquery-core-js"></script>
+<script type="text/javascript" src="./model3_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="./model3_files/jquery.validate.js.download" id="validate-script-js"></script>
+<script type="text/javascript" id="ajax-auth-script-js-extra">
+/* <![CDATA[ */
+var ajax_auth_object = {"ajaxurl":"https:\/\/smktamansiswa2jakarta.sch.id\/wp-admin\/admin-ajax.php","redirecturl":"","loadingmessage":"Sedang memeriksa info, tunggu sebentar..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./model3_files/ajax-auth-script.js.download" id="ajax-auth-script-js"></script>
+<link rel="https://api.w.org/" href="https://smktamansiswa2jakarta.sch.id/wp-json/"><link rel="alternate" type="application/json" href="https://smktamansiswa2jakarta.sch.id/wp-json/wp/v2/galeri/556"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://smktamansiswa2jakarta.sch.id/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.3.2">
+<link rel="canonical" href="https://smktamansiswa2jakarta.sch.id/galeri/juara-lks/">
+<link rel="shortlink" href="https://smktamansiswa2jakarta.sch.id/?p=556">
+<link rel="alternate" type="application/json+oembed" href="https://smktamansiswa2jakarta.sch.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsmktamansiswa2jakarta.sch.id%2Fgaleri%2Fjuara-lks%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://smktamansiswa2jakarta.sch.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsmktamansiswa2jakarta.sch.id%2Fgaleri%2Fjuara-lks%2F&amp;format=xml">
+
+		<style id="learn-press-custom-css">
+			:root {
+				--lp-primary-color: #ffb606;
+				--lp-secondary-color: #442e66;
+			}
+		</style>
+
+		<style type="text/css">	    .press_search,
+		.info_box h3 span.re_info,
+		.press_social .fa,
+		.near_agenda h3 span.re_agenda,
+		.post_meta span,
+		.announ_post h3 span.re_announ,
+		.editorial_more a,
+		.blog_box h3 span.re_blog,
+		.extra_text span.re_lihat,
+		.some_input input,
+		.some_cat span,
+		.kelas_head .to_materi,
+		.det_mapel,
+		.det_kelas,
+		a.login_button,
+		a.logout_button,
+		.tugas_term span,
+		.log_open,
+		.log_user,
+		.press_cat a,
+		.loop_meta span,
+		#submit,
+		.comment__avatar img,
+		.botsearch,
+		.botmenu,
+		.botclose,
+		.closemenu,
+		.opensearch .ps_button button,
+		.oc_class span:after {
+					    	border-radius: 6px;
+					}
+		@media screen and (max-width: 480px) {
+		#presslider {
+						    position: relative;
+					}
+		.press_infosekolah {
+			                position: relative;
+			        }
+        }
+		.press_infosekolah {
+					    	border-radius: 0;
+					}
+	
+	</style><style type="text/css">	.press_page {
+		background-image: url(https://smktamansiswa2jakarta.sch.id/wp-content/themes/prestasi/image/parallax.jpg);
+	}
+	.home_agenda {
+		background-image: url(https://smktamansiswa2jakarta.sch.id/wp-content/themes/prestasi/image/parallax.jpg);
+	}
+	.press_page:after {
+		opacity: 0.30;
+	}
+	</style><link rel="icon" href="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2022/03/cropped-cropped-LOGO-TAMSIS-MATERIAL-DESIGN-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2022/03/cropped-cropped-LOGO-TAMSIS-MATERIAL-DESIGN-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2022/03/cropped-cropped-LOGO-TAMSIS-MATERIAL-DESIGN-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2022/03/cropped-cropped-LOGO-TAMSIS-MATERIAL-DESIGN-1-270x270.png">
+	
+	<!-- Tema Prestasi dari ciuss.com rilis April 2021 -->
+
+	<style class="fslightbox-styles">.fslightbox-absoluted{position:absolute;top:0;left:0}.fslightbox-fade-in{animation:fslightbox-fade-in .25s cubic-bezier(0,0,.7,1)}.fslightbox-fade-out{animation:fslightbox-fade-out .25s ease}.fslightbox-fade-in-strong{animation:fslightbox-fade-in-strong .25s cubic-bezier(0,0,.7,1)}.fslightbox-fade-out-strong{animation:fslightbox-fade-out-strong .25s ease}@keyframes fslightbox-fade-in{from{opacity:.65}to{opacity:1}}@keyframes fslightbox-fade-out{from{opacity:.35}to{opacity:0}}@keyframes fslightbox-fade-in-strong{from{opacity:.3}to{opacity:1}}@keyframes fslightbox-fade-out-strong{from{opacity:1}to{opacity:0}}.fslightbox-cursor-grabbing{cursor:grabbing}.fslightbox-full-dimension{width:100%;height:100%}.fslightbox-open{overflow:hidden;height:100%}.fslightbox-flex-centered{display:flex;justify-content:center;align-items:center}.fslightbox-opacity-0{opacity:0!important}.fslightbox-opacity-1{opacity:1!important}.fslightbox-scrollbarfix{padding-right:17px}.fslightbox-transform-transition{transition:transform .3s}.fslightbox-container{font-family:Arial,sans-serif;position:fixed;top:0;left:0;background:linear-gradient(rgba(30,30,30,.9),#000 1810%);z-index:1000000000;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}.fslightbox-container *{box-sizing:border-box}.fslightbox-svg-path{transition:fill .15s ease;fill:#ddd}.fslightbox-nav{height:45px;width:100%;position:absolute;top:0;left:0}.fslightbox-slide-number-container{display:flex;justify-content:center;align-items:center;position:relative;height:100%;font-size:15px;color:#d7d7d7;z-index:0;max-width:55px;text-align:left}.fslightbox-slide-number-container .fslightbox-flex-centered{height:100%}.fslightbox-slash{display:block;margin:0 5px;width:1px;height:12px;transform:rotate(15deg);background:#fff}.fslightbox-toolbar{position:absolute;z-index:3;right:0;top:0;height:100%;display:flex;background:rgba(35,35,35,.65)}.fslightbox-toolbar-button{height:100%;width:45px;cursor:pointer}.fslightbox-toolbar-button:hover .fslightbox-svg-path{fill:#fff}.fslightbox-slide-btn-container{display:flex;align-items:center;padding:12px 12px 12px 6px;position:absolute;top:50%;cursor:pointer;z-index:3;transform:translateY(-50%)}@media (min-width:476px){.fslightbox-slide-btn-container{padding:22px 22px 22px 6px}}@media (min-width:768px){.fslightbox-slide-btn-container{padding:30px 30px 30px 6px}}.fslightbox-slide-btn-container:hover .fslightbox-svg-path{fill:#f1f1f1}.fslightbox-slide-btn{padding:9px;font-size:26px;background:rgba(35,35,35,.65)}@media (min-width:768px){.fslightbox-slide-btn{padding:10px}}@media (min-width:1600px){.fslightbox-slide-btn{padding:11px}}.fslightbox-slide-btn-container-previous{left:0}@media (max-width:475.99px){.fslightbox-slide-btn-container-previous{padding-left:3px}}.fslightbox-slide-btn-container-next{right:0;padding-left:12px;padding-right:3px}@media (min-width:476px){.fslightbox-slide-btn-container-next{padding-left:22px}}@media (min-width:768px){.fslightbox-slide-btn-container-next{padding-left:30px}}@media (min-width:476px){.fslightbox-slide-btn-container-next{padding-right:6px}}.fslightbox-down-event-detector{position:absolute;z-index:1}.fslightbox-slide-swiping-hoverer{z-index:4}.fslightbox-invalid-file-wrapper{font-size:22px;color:#eaebeb;margin:auto}.fslightbox-video{object-fit:cover}.fslightbox-youtube-iframe{border:0}.fslightbox-loader{display:block;margin:auto;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:67px;height:67px}.fslightbox-loader div{box-sizing:border-box;display:block;position:absolute;width:54px;height:54px;margin:6px;border:5px solid;border-color:#999 transparent transparent transparent;border-radius:50%;animation:fslightbox-loader 1.2s cubic-bezier(.5,0,.5,1) infinite}.fslightbox-loader div:nth-child(1){animation-delay:-.45s}.fslightbox-loader div:nth-child(2){animation-delay:-.3s}.fslightbox-loader div:nth-child(3){animation-delay:-.15s}@keyframes fslightbox-loader{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}.fslightbox-source{position:relative;z-index:2;opacity:0}</style><script src="./model3_files/wp-emoji-release.min.js.download" defer=""></script></head>
+	
+	<body class="galeri-template-default single single-galeri postid-556 wp-custom-logo wp-embed-responsive qodef-back-to-top--enabled  qode-essential-addons-1.5">
+	    <div class="prestasi fade">
+		    
+		    <section class="header clear">
+			
+			    <div class="press_top">
+				    <div class="press_today">
+					    <span>Friday, 17 Nov 2023</span>
+					</div>
+					<div class="running">
+				        <div class="tickercontainer"><div class="mask"><ul id="pressnews" class="newstickers" style="width: 1187.78px; left: -976.32px;">
+				            <li>Menjadi Sekolah Pilihan Masyarakat yang Mendidik Siswa <strong>Berbudi Pekerti Luhur</strong>, <strong>Berprestasi</strong>, dan <strong>Berdaya Saing Global</strong>  |   <strong> PPDB 2023 TELAH DIBUKA! </strong>, segera daftarkan dirmu!</li>				    	</ul></div></div>
+					</div>
+					<div class="press_search">
+	<form method="get" id="searchform" action="https://smktamansiswa2jakarta.sch.id/">
+		<div class="ps_input">
+		    <input name="s" type="text" placeholder="Cari..." value="">
+		</div>
+		<div class="ps_select">
+			<select name="post_type">
+	    		<option value="post">Pos</option>
+				<option value="editorial">Editorial</option>
+				<option value="blog">Blog</option>
+				<option value="pengumuman">Pengumuman</option>
+				<option value="agenda">Agenda</option>
+				<option value="fasilitas">Fasilitas</option>
+								    <option value="ekskul">Ekskul</option>
+								<option value="prestasi">Prestasi</option>
+				
+			</select>
+		</div>
+		<div class="ps_button">
+			<button type="submit"><i class="fa fa-search"></i></button>
+		</div>
+	</form>
+</div>
+				</div>
+				
+				<div class="press_head">
+				
+				    <div class="head_area clear">
+				        <div class="press_logo">
+					    	<a href="https://smktamansiswa2jakarta.sch.id/" class="custom-logo-link" rel="home"><img width="600" height="78" src="./model3_files/cropped-LENGKAP_web-1.png" class="custom-logo" alt="SMK TAMANSISWA 2 JAKARTA" decoding="async" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2023/06/cropped-LENGKAP_web-1.png 600w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2023/06/cropped-LENGKAP_web-1-300x39.png 300w" sizes="(max-width: 600px) 100vw, 600px"></a>						</div>
+						<div id="site-header-menu" class="site-header-menu press_nav">
+						    <span class="closemenu">TUTUP MENU</span>
+						    <div class="nav"><ul id="dd" class="dd desktop deskmenu"><li id="menu-item-805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-805"><a href="https://smktamansiswa2jakarta.sch.id/">Beranda</a></li>
+<li id="menu-item-1136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1136"><a href="https://smktamansiswa2jakarta.sch.id/profil/">Profil</a></li>
+<li id="menu-item-1146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1146"><a href="https://smktamansiswa2jakarta.sch.id/struktur-organisasi/">Struktur Organisasi</a></li>
+<li id="menu-item-1138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1138 has-sub"><a href="https://smktamansiswa2jakarta.sch.id/kompetensi-keahlian/">Kompetensi Keahlian</a>
+<ul class="sub-menu">
+	<li id="menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152"><a href="https://smktamansiswa2jakarta.sch.id/teknik-instalasi-tenaga-listrik/">Teknik Instalasi Tenaga Listrik</a></li>
+	<li id="menu-item-1151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1151"><a href="https://smktamansiswa2jakarta.sch.id/teknik-pemesinan/">Teknik Pemesinan</a></li>
+	<li id="menu-item-1150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150"><a href="https://smktamansiswa2jakarta.sch.id/teknik-kendaraan-ringan/">Teknik Kendaraan Ringan</a></li>
+	<li id="menu-item-1149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149"><a href="https://smktamansiswa2jakarta.sch.id/teknik-komputer-dan-jaringan/">Teknik Komputer dan Jaringan</a></li>
+	<li id="menu-item-1148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1148"><a href="https://smktamansiswa2jakarta.sch.id/rekayasa-perangkat-lunak/">Rekayasa Perangkat Lunak</a></li>
+	<li id="menu-item-1147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="https://smktamansiswa2jakarta.sch.id/teknik-dan-bisnis-sepeda-motor/">Teknik dan Bisnis Sepeda Motor</a></li>
+</ul>
+</li>
+<li id="menu-item-463" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-463"><a href="https://smktamansiswa2jakarta.sch.id/berita/">Berita</a></li>
+<li id="menu-item-1160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1160 has-sub"><a href="https://smktamansiswa2jakarta.sch.id/kesiswaan/">Kesiswaan</a>
+<ul class="sub-menu">
+	<li id="menu-item-658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-658"><a href="https://smktamansiswa2jakarta.sch.id/prestasi-2/">Prestasi</a></li>
+	<li id="menu-item-1142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1142"><a href="https://smktamansiswa2jakarta.sch.id/ppts/">PPTS</a></li>
+	<li id="menu-item-1143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1143"><a href="https://smktamansiswa2jakarta.sch.id/ekstrakurikuler/">Ekstrakurikuler</a></li>
+</ul>
+</li>
+<li id="menu-item-1145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1145"><a href="https://smktamansiswa2jakarta.sch.id/kerjasama-industri/">Kerjasama Industri</a></li>
+<li id="menu-item-1141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="https://smktamansiswa2jakarta.sch.id/sarana-prasarana/">Sarana Prasarana</a></li>
+<li id="menu-item-1140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1140"><a href="https://smktamansiswa2jakarta.sch.id/galleri/">Galleri</a></li>
+</ul></div>						</div>
+						<span class="botsearch"><i class="fa fa-search"></i></span>
+		                <span class="botmenu"><i class="fa fa-navicon"></i></span>
+					</div>
+					
+				</div>
+				
+			</section>
+			
+						
+			<!-- Content -->
+			<div class="press_content clear">    <!-- Single -->
+			
+		<div class="press_page">
+	    	<div class="bread_in">
+	            <h1 class="press_heading">Juara LKS</h1><div class="breadcrumbs" itemscope="" itemtype="https://schema.org/WebPage"><div class="inbread" itemprop="breadcrumb"><span class="here">Anda disini : </span><span><a href="https://smktamansiswa2jakarta.sch.id/" itemprop="url">Beranda</a></span> - <span><a itemprop="url" href="https://smktamansiswa2jakarta.sch.id/galeri/">Galeri</a></span> - <span class="current">Juara LKS</span></div></div><!-- .breadcrumbs -->        	</div>
+    	</div>
+		
+		<section class="press_singlepost">
+	        <div class="press_container">
+			
+			    <div class="press_singlecontent clear">
+				
+				    <div class="press_primary">
+					    <div class="primary_content">
+						
+							<div class="content_thumbnail"><img width="1280" height="960" src="./model3_files/WhatsApp-Image-2019-12-18-at-14.25.09.jpeg" class="attachment-full size-full wp-post-image" alt="Juara LKS" decoding="async" title="Juara LKS" fetchpriority="high" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09.jpeg 1280w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09-300x225.jpeg 300w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09-1024x768.jpeg 1024w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09-768x576.jpeg 768w" sizes="(max-width: 1280px) 100vw, 1280px"></div>							
+							<div class="press_article">
+							    
+<figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="1024" height="768" src="./model3_files/WhatsApp-Image-2019-12-18-at-14.25.09-1024x768.jpeg" alt="" data-id="305" data-full-url="https://smktamansiswa2jakarta.sch.id/beranda/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09.jpeg" data-link="https://smktamansiswa2jakarta.sch.id/beranda/prestasi/whatsapp-image-2019-12-18-at-14-25-09/" class="wp-image-305" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09-1024x768.jpeg 1024w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09-300x225.jpeg 300w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09-768x576.jpeg 768w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.09.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="767" height="1024" src="./model3_files/WhatsApp-Image-2019-12-18-at-14.43.49-767x1024.jpeg" alt="" data-id="304" data-full-url="https://smktamansiswa2jakarta.sch.id/beranda/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.43.49.jpeg" data-link="https://smktamansiswa2jakarta.sch.id/beranda/prestasi/whatsapp-image-2019-12-18-at-14-43-49/" class="wp-image-304" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.43.49-767x1024.jpeg 767w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.43.49-225x300.jpeg 225w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.43.49-768x1025.jpeg 768w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.43.49.jpeg 959w" sizes="(max-width: 767px) 100vw, 767px"></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="768" src="./model3_files/WhatsApp-Image-2019-12-18-at-14.25.49-1024x768.jpeg" alt="" data-id="301" data-full-url="https://smktamansiswa2jakarta.sch.id/beranda/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.49.jpeg" data-link="https://smktamansiswa2jakarta.sch.id/beranda/prestasi/whatsapp-image-2019-12-18-at-14-25-49/" class="wp-image-301" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.49-1024x768.jpeg 1024w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.49-300x225.jpeg 300w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.49-768x576.jpeg 768w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.25.49.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="768" src="./model3_files/WhatsApp-Image-2019-12-18-at-14.30.32-1024x768.jpeg" alt="" data-id="300" data-full-url="https://smktamansiswa2jakarta.sch.id/beranda/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.30.32.jpeg" data-link="https://smktamansiswa2jakarta.sch.id/beranda/prestasi/whatsapp-image-2019-12-18-at-14-30-32/" class="wp-image-300" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.30.32-1024x768.jpeg 1024w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.30.32-300x225.jpeg 300w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.30.32-768x576.jpeg 768w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.30.32.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="958" src="./model3_files/WhatsApp-Image-2019-12-18-at-14.31.40-1024x958.jpeg" alt="" data-id="299" data-full-url="https://smktamansiswa2jakarta.sch.id/beranda/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.31.40.jpeg" data-link="https://smktamansiswa2jakarta.sch.id/beranda/prestasi/whatsapp-image-2019-12-18-at-14-31-40/" class="wp-image-299" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.31.40-1024x958.jpeg 1024w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.31.40-300x281.jpeg 300w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.31.40-768x719.jpeg 768w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.31.40.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="473" src="./model3_files/WhatsApp-Image-2019-12-18-at-14.40.44-1024x473.jpeg" alt="" data-id="298" data-full-url="https://smktamansiswa2jakarta.sch.id/beranda/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.40.44.jpeg" data-link="https://smktamansiswa2jakarta.sch.id/beranda/prestasi/whatsapp-image-2019-12-18-at-14-40-44/" class="wp-image-298" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.40.44-1024x473.jpeg 1024w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.40.44-300x139.jpeg 300w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.40.44-768x355.jpeg 768w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/WhatsApp-Image-2019-12-18-at-14.40.44.jpeg 1152w" sizes="(max-width: 1024px) 100vw, 1024px"></figure></li></ul></figure>
+							</div>
+							
+						</div>
+					</div>
+					
+					<div class="press_secondary">
+					
+						<div class="secondary_content">
+							
+												
+			<div class="clear">
+				<h3 class="press_heads">Galeri Lainnya</h3>
+			</div>
+				
+							    
+		    		<div class="clear loop_bar">
+									    		    <div class="loop_thumb">
+						        <a href="https://smktamansiswa2jakarta.sch.id/galeri/doa-bersama/"><img width="200" height="150" src="./model3_files/IMG_20200314_083829-scaled.jpg" class="attachment-gals size-gals wp-post-image" alt="Doa Bersama" decoding="async" title="Doa Bersama" loading="lazy" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_083829-scaled.jpg 2560w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_083829-300x225.jpg 300w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_083829-1024x768.jpg 1024w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_083829-768x576.jpg 768w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_083829-1536x1152.jpg 1536w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_083829-2048x1536.jpg 2048w" sizes="(max-width: 200px) 100vw, 200px"></a>
+			    			</div>
+			    								<div class="loop_meta">
+						    
+			    			<h4><a href="https://smktamansiswa2jakarta.sch.id/galeri/doa-bersama/">Doa Bersama</a></h4>
+						
+			    		</div>
+					</div>
+	                 
+	                				    
+		    		<div class="clear loop_bar">
+									    		    <div class="loop_thumb">
+						        <a href="https://smktamansiswa2jakarta.sch.id/galeri/foto-bersama/"><img width="200" height="150" src="./model3_files/IMG_20200314_095452-scaled.jpg" class="attachment-gals size-gals wp-post-image" alt="Foto Bersama" decoding="async" title="Foto Bersama" loading="lazy" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_095452-scaled.jpg 2560w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_095452-300x225.jpg 300w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_095452-1024x766.jpg 1024w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_095452-768x575.jpg 768w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_095452-1536x1150.jpg 1536w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_20200314_095452-2048x1533.jpg 2048w" sizes="(max-width: 200px) 100vw, 200px"></a>
+			    			</div>
+			    								<div class="loop_meta">
+						    
+			    			<h4><a href="https://smktamansiswa2jakarta.sch.id/galeri/foto-bersama/">Foto Bersama</a></h4>
+						
+			    		</div>
+					</div>
+	                 
+	                				    
+		    		<div class="clear loop_bar">
+									    		    <div class="loop_thumb">
+						        <a href="https://smktamansiswa2jakarta.sch.id/galeri/ppts/"><img width="200" height="133" src="./model3_files/IMG_3027-scaled.jpg" class="attachment-gals size-gals wp-post-image" alt="PPTS" decoding="async" title="PPTS" loading="lazy" srcset="https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_3027-scaled.jpg 2560w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_3027-300x200.jpg 300w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_3027-1024x683.jpg 1024w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_3027-768x512.jpg 768w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_3027-1536x1024.jpg 1536w, https://smktamansiswa2jakarta.sch.id/wp-content/uploads/2020/04/IMG_3027-2048x1365.jpg 2048w" sizes="(max-width: 200px) 100vw, 200px"></a>
+			    			</div>
+			    								<div class="loop_meta">
+						    
+			    			<h4><a href="https://smktamansiswa2jakarta.sch.id/galeri/ppts/">PPTS</a></h4>
+						
+			    		</div>
+					</div>
+	                 
+	                							
+						</div>
+						
+			        </div>
+					
+				</div>
+				
+			</div>
+		</section>
+		
+			
+
+            </div><!-- Content -->
+		</div><!-- Prestasi -->
+			
+		<div id="footerbar">
+			        <div class="press_container">
+	            	    <div class="widget__footer clear">
+					    	<div class="footer__block footer_big">
+		                 		<div class="footer__block-inner">
+			    	            									</div>
+							</div>
+							<div class="footer__block">
+							    <div class="footer__block-inner">
+							    									</div>
+							</div>
+							<div class="footer__block">
+						    	<div class="footer__block-inner">
+								    								</div>
+							</div>
+						</div>
+					</div>
+		</div>
+					
+        <div class="footer">
+			<div class="press_container">
+            <div class="footer__copyright clear">
+				<div class="container">
+					<div class="copyright">
+						SMK TAMANSISWA 2 JAKARTA ©️ 2022					</div>
+				</div>
+			</div>
+			</div>
+				
+        </div><!-- footer -->   
+		<span class="botclose">KELUAR</span>
+				
+		<a id="qodef-back-to-top" href="https://smktamansiswa2jakarta.sch.id/galeri/juara-lks/#" class="qodef--predefined qodef--on">
+	<span class="qodef-back-to-top-icon">
+		<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1015 771" xml:space="preserve"><polygon points="34.5,307.5 684.2,307.5 513,136.4 629,20.4 882.1,273.5 998.1,389.5 882.1,505.5 629,758.6 513,642.7 684.2,471.5 34.5,471.5 "></polygon></svg>	</span>
+</a>
+<style id="core-block-supports-inline-css" type="text/css">
+.wp-block-gallery.wp-block-gallery-1{--wp--style--unstable-gallery-gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );gap:var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+</style>
+<script type="text/javascript" src="./model3_files/core.min.js.download" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="./model3_files/modernizr.js.download" id="modernizr-js"></script>
+<script type="text/javascript" src="./model3_files/fslightbox.min.js.download" id="fslightbox-js"></script>
+<script type="text/javascript" src="./model3_files/swiper.min.js.download" id="swiper-js"></script>
+<script type="text/javascript" id="qode-essential-addons-script-js-extra">
+/* <![CDATA[ */
+var qodefGlobal = {"vars":{"adminBarHeight":0,"iconArrowLeft":"<svg  xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 34.2 32.3\" xml:space=\"preserve\" style=\"stroke-width: 2;\"><line x1=\"0.5\" y1=\"16\" x2=\"33.5\" y2=\"16\"\/><line x1=\"0.3\" y1=\"16.5\" x2=\"16.2\" y2=\"0.7\"\/><line x1=\"0\" y1=\"15.4\" x2=\"16.2\" y2=\"31.6\"\/><\/svg>","iconArrowRight":"<svg  xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 34.2 32.3\" xml:space=\"preserve\" style=\"stroke-width: 2;\"><line x1=\"0\" y1=\"16\" x2=\"33\" y2=\"16\"\/><line x1=\"17.3\" y1=\"0.7\" x2=\"33.2\" y2=\"16.5\"\/><line x1=\"17.3\" y1=\"31.6\" x2=\"33.5\" y2=\"15.4\"\/><\/svg>","iconClose":"<svg  xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 9.1 9.1\" xml:space=\"preserve\"><g><path d=\"M8.5,0L9,0.6L5.1,4.5L9,8.5L8.5,9L4.5,5.1L0.6,9L0,8.5L4,4.5L0,0.6L0.6,0L4.5,4L8.5,0z\"\/><\/g><\/svg>","topAreaHeight":0}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./model3_files/main.min.js.download" id="qode-essential-addons-script-js"></script>
+<script type="text/javascript" src="./model3_files/owl.carousel.min.js.download" id="press-owls-js"></script>
+<script type="text/javascript" src="./model3_files/newstickers.js.download" id="press-ticker-js"></script>
+		
+        <script type="text/javascript">
+		
+		    function fetch(){
+				jQuery.ajax({
+					url: 'https://smktamansiswa2jakarta.sch.id/wp-admin/admin-ajax.php',
+					type: 'post',
+					data: { action: 'data_fetch', keyword: jQuery('#keyword').val() },
+					success: function(data) {
+						jQuery('#datafetch').html( data );
+					}
+				});
+			}
+			
+			function sisfetch(){
+				jQuery.ajax({
+					url: 'https://smktamansiswa2jakarta.sch.id/wp-admin/admin-ajax.php',
+					type: 'post',
+					data: { action: 'siswa_fetch', student: jQuery('#student').val() },
+					success: function(data) {
+						jQuery('#siswafetch').html( data );
+					}
+				});
+			}
+			
+			jQuery(document).scroll(function(){
+				if( jQuery(this).scrollTop() >= 450) {  
+			        jQuery('.prestasi').addClass("fade");
+				} else {
+					jQuery('.prestasi').removeClass("fade");
+				}
+			});
+			
+			jQuery('#return').click(function() {
+				jQuery('body,html').animate({
+					scrollTop : 0
+			 	}, 500);
+			});
+			
+			jQuery('.opentoggle').click(function() {
+				jQuery('.info_tab, .press_cont').slideToggle();
+				jQuery('.press_infosekolah').toggleClass("infoshow");
+			});
+			jQuery('.botsearch').click(function() {
+				jQuery('.press_top').toggleClass("opensearch");
+				jQuery('.botclose').toggleClass("openclose");
+			});
+			jQuery('.botclose').click(function() {
+				jQuery('.press_top').toggleClass("opensearch");
+				jQuery('.botclose').toggleClass("openclose");
+			});
+			jQuery('.botmenu, .closemenu').click(function() {
+				jQuery('.press_nav').toggleClass("openmenu");
+			});
+			jQuery('.oc_class span').click(function() {
+				jQuery('.kelas_cat').slideToggle();
+			});
+			
+		</script>
+	
+
+</body></html>
