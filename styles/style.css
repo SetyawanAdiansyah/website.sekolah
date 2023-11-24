@@ -88,7 +88,7 @@ img{
 #header div#tagline{
 	background:url(../images/tawadu.jpg) no-repeat center -20px;
 	margin-top:10px;
-	margin-right: 10px;
+	width: 2000px;
 }
 #header div#tagline div{
 	color:#295071;
